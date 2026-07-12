@@ -105,9 +105,10 @@ URL shortener built with Node.js, Express & MongoDB — JWT auth, role-based acc
 ### 🔀 Merged Pull Requests
 
 <!-- MERGED_PRS:START -->
-- **[DoxDock](https://github.com/mithun-srinivas/DoxDock)** — Built a shared `usePdfPageCount` React hook for live PDF page counts, integrated across 4 tools (Rotate, Split, Extract Text, Add Page Numbers) · `+112/-95`
-- **[p5.js-website](https://github.com/processing/p5.js-website)** — Fixed a search bar placeholder font-size inconsistency to match the Language/Accessibility dropdown styling
-- **[matrixpy](https://github.com/Code-Society-Lab/matrixpy)** — Added a `get_members` method to fetch currently joined user IDs via the Matrix server's `AsyncClient`
+- **[FasterApiWeb/leash-secrets](https://github.com/FasterApiWeb/leash-secrets)** — fix: reduce basic-auth false positive for markdown mailto badges ([#38](https://github.com/FasterApiWeb/leash-secrets/pull/38))
+- **[processing/p5.js-website](https://github.com/processing/p5.js-website)** — Fix search bar placeholder font-size to match Language/Accessibility dropdowns. ([#1491](https://github.com/processing/p5.js-website/pull/1491))
+- **[mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)** — feat(pdf): show page count on file select ([#7](https://github.com/mithun-srinivas/DoxDock/pull/7))
+- **[Code-Society-Lab/matrixpy](https://github.com/Code-Society-Lab/matrixpy)** — feat: add get_members method to Room ([#74](https://github.com/Code-Society-Lab/matrixpy/pull/74))
 <!-- MERGED_PRS:END -->
 
 <sub>⚙️ This list updates itself automatically — see the setup guide provided alongside this repo.</sub>
