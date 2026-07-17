@@ -20,7 +20,7 @@ Electrical Engineering student at **NIT Jamshedpur** (2024–2028, CGPA 8.18) wi
 
 - 🏆 Grand Finalist, Smart India Hackathon 2025
 - 💻 Building production-style projects: workflow automation, packet inspection engines, secure blogging platforms
-- 🔀 <!-- PR_COUNT -->5<!-- /PR_COUNT --> pull requests merged across open-source repos, including `processing/p5.js-website`
+- 🔀 <!-- PR_COUNT -->6<!-- /PR_COUNT --> pull requests merged across open-source repos, including `processing/p5.js-website`
 - 📈 250+ LeetCode problems solved · Contest rating 1580
 - 🎯 Seeking **Software Engineering internship** opportunities
 - 📫 Reach me at **sanaparveenjaipur786@gmail.com**
@@ -73,7 +73,7 @@ URL shortener built with Node.js, Express & MongoDB — JWT auth, role-based acc
 - 🥇 **Grand Finalist**, Smart India Hackathon 2025 — top 99.0 percentile among 826,635+ student participants nationwide
 - 🎓 **JEE Mains 2024** — 98.3 percentile, qualifying for admission to NIT Jamshedpur
 - 🧩 **LeetCode** — 250+ problems solved · Contest rating 1580
-- 🔀 **<!-- PR_COUNT -->5<!-- /PR_COUNT --> pull requests merged** across open-source repositories, including `processing/p5.js-website`
+- 🔀 **<!-- PR_COUNT -->6<!-- /PR_COUNT --> pull requests merged** across open-source repositories, including `processing/p5.js-website`
 
 ---
 
@@ -106,6 +106,8 @@ URL shortener built with Node.js, Express & MongoDB — JWT auth, role-based acc
 ### 🔀 Merged Pull Requests
 
 <!-- MERGED_PRS:START -->
+- **[mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)** — Add word and character count to Extract Text (#13) ([#97](https://github.com/mithun-srinivas/DoxDock/pull/97))
+- **[velofy/summitjs](https://github.com/velofy/summitjs)** — Add s-table component with docs page ([#9](https://github.com/velofy/summitjs/pull/9))
 - **[FasterApiWeb/leash-secrets](https://github.com/FasterApiWeb/leash-secrets)** — fix: reduce basic-auth false positive for markdown mailto badges ([#38](https://github.com/FasterApiWeb/leash-secrets/pull/38))
 - **[processing/p5.js-website](https://github.com/processing/p5.js-website)** — Fix search bar placeholder font-size to match Language/Accessibility dropdowns. ([#1491](https://github.com/processing/p5.js-website/pull/1491))
 - **[mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)** — feat(pdf): show page count on file select ([#7](https://github.com/mithun-srinivas/DoxDock/pull/7))
