@@ -105,6 +105,8 @@ URL shortener built with Node.js, Express & MongoDB — JWT auth, role-based acc
 ### 🔀 Merged Pull Requests
 
 <!-- MERGED_PRS:START -->
+- **[mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)** — Add word and character count to Extract Text (#13) ([#97](https://github.com/mithun-srinivas/DoxDock/pull/97))
+- **[velofy/summitjs](https://github.com/velofy/summitjs)** — Add s-table component with docs page ([#9](https://github.com/velofy/summitjs/pull/9))
 - **[FasterApiWeb/leash-secrets](https://github.com/FasterApiWeb/leash-secrets)** — fix: reduce basic-auth false positive for markdown mailto badges ([#38](https://github.com/FasterApiWeb/leash-secrets/pull/38))
 - **[processing/p5.js-website](https://github.com/processing/p5.js-website)** — Fix search bar placeholder font-size to match Language/Accessibility dropdowns. ([#1491](https://github.com/processing/p5.js-website/pull/1491))
 - **[mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)** — feat(pdf): show page count on file select ([#7](https://github.com/mithun-srinivas/DoxDock/pull/7))
